@@ -1,0 +1,9 @@
+{
+  "name": "Smart Health Guard: Virtual Health Hub",
+  "description": "An all-in-one platform for virtual medical consultations, featuring appointment booking, AI assistance, report management, emergency services, and secure payments.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
